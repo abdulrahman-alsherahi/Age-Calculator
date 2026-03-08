@@ -1,9 +1,4 @@
 
-
-# 1 - Age Calculator:
-
-
-
 # Age Calculator
 
 print("📅 --- Age Calculator ---")
